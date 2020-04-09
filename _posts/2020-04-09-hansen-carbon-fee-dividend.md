@@ -18,8 +18,8 @@ that people stop using and emitting it!
 
 This is the motivating idea behind a range of carbon-related economic policies,
 that have been proposed and implemented in various forms across the world.
-Perhaps the best known such policy is cap and trade, which has been
-successfully used [in the US][acid-rain-program] to regulate sulfur dioxide
+Perhaps the best known such policy in the US is cap and trade, which has been
+successfully used to [regulate][acid-rain-program] sulfur dioxide
 and nitrogen oxide emissions—the main causes of acid rain. However, a national
 cap and trade scheme [for carbon][ACES2009] famously failed to pass through
 Congress under the Obama administration.
