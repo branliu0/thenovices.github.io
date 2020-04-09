@@ -20,20 +20,20 @@ This is the motivating idea behind a range of carbon-related economic policies,
 that have been proposed and implemented in various forms across the world.
 Perhaps the best known such policy is cap and trade, which has been
 successfully used [in the US][acid-rain-program] to regulate sulfur dioxide
-and nitrogen oxide emissions (the main causes of acid rain). However, cap and
-trade [for carbon][ACES2009] famously failed to pass through Congress under
-the Obama administration.
+and nitrogen oxide emissions—the main causes of acid rain. However, a national
+cap and trade scheme [for carbon][ACES2009] famously failed to pass through
+Congress under the Obama administration.
 
 [acid-rain-program]: https://en.wikipedia.org/wiki/Acid_Rain_Program
 [ACES2009]: https://en.wikipedia.org/wiki/American_Clean_Energy_and_Security_Act
 
-For years though, renowned NASA climate scientist James Hansen has been arguing
+For years, renowned NASA climate scientist James Hansen has been arguing
 that he has a much better policy known as [carbon fee and dividend (CFAD)][wiki]
 It's meant to be simpler to implement than cap-and-trade and to be
-revenue-neutral for the government, which ought to appeal to conservatives who
-usually oppose pro-environment legislation. CFAD legislation has been introduced
-into Congress a few times, including by Bernie Sanders [in 2013][S332], but it has
-failed to make any progress thus far.
+revenue-neutral for the government, which ought to appeal to conservatives.
+CFAD legislation has been introduced into Congress a few times, including by
+Bernie Sanders [in 2013][S332], but it has failed to make any progress thus
+far.
 
   [//]: # (On what basis do these conservatives usually oppose environmental
   legislation? I suppose we can't really buy into the small-government ideology
