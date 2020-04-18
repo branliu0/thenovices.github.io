@@ -129,7 +129,7 @@ it's on the right topic. But another dead end.
 [bnf]: https://gallica.bnf.fr/ark:/12148/bpt6k842422/f1.image
 
 This was a disappointing exercise. A perennial but empirically intractable
-questions that arises in politics and sociology is whether politicians and other
+question that arises in politics and sociology is whether politicians and other
 elites really believe the things that they say. Did they really believe in
 trickle-down economics, reducing the government deficit, or austerity, or was it
 just an ideological cloak for policies they knew would ultimately benefit the
