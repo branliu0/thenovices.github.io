@@ -73,8 +73,7 @@ The [EPA reports][epa-equiv] that burning one therm of natural gas releases
 5.3kg of CO2. Thus our household gas usage results in 2.56kg CO2/day or 922.2kg
 CO2/year, bringing our total emissions to 3.1kg CO2/day or 1,117.5kg CO2/year.
 
-[epa-equiv]:
-https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references
+[epa-equiv]: https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references
 
 For comparison, the average American [emits about 17 tons][wb] of CO2 per year (not
 including other greenhouse gases, such as methane) of which [6.1 tons][kalmus] come from
