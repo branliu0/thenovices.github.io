@@ -77,7 +77,7 @@ CO2/year, bringing our total emissions to 3.1kg CO2/day or 1,117.5kg CO2/year.
 
 For comparison, the average American [emits about 17 tons][wb] of CO2 per year (not
 including other greenhouse gases, such as methane) of which [6.1 tons][kalmus] come from
-electricity and natural gas. Europeans emit about 8 tons in total per yar and
+electricity and natural gas. Europeans emit about 8 tons in total per year and
 the global average is about 5 tons.
 
 The most interesting result here is that natural gas makes up 82.5% of our
