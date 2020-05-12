@@ -35,10 +35,7 @@ CFAD legislation has been introduced into Congress a few times, including by
 Bernie Sanders [in 2013][S332], but it has failed to make any progress thus
 far.
 
-  [//]: # (On what basis do these conservatives usually oppose environmental
-  legislation? I suppose we can't really buy into the small-government ideology
-  anymore. Presumably it's a combination of having constituencies who benefit from
-  the fossil fuel industry and being lobbied by the fossil fuel industry.)
+[//]: # (On what basis do these conservatives usually oppose environmental legislation? I suppose we can't really buy into the small-government ideology anymore. Presumably it's a combination of having constituencies who benefit from the fossil fuel industry and being lobbied by the fossil fuel industry.)
 
 The basic idea sounds quite simple: levy a fee (don't use the
 word tax, because it's politically suicidal) at the point where carbon enters
